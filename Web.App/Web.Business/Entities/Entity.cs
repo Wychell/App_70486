@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Web.Business
+namespace Web.Business.Entities
 {
-    public class Class1
+    public abstract class Entity
     {
+        public long Id { get; set; }
     }
 }
