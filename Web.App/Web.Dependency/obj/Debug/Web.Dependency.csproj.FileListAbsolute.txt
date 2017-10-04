@@ -1,0 +1,5 @@
+C:\Users\ITIX\App_70486\Web.App\Web.Dependency\bin\Debug\Web.Dependency.dll
+C:\Users\ITIX\App_70486\Web.App\Web.Dependency\bin\Debug\Web.Dependency.pdb
+C:\Users\ITIX\App_70486\Web.App\Web.Dependency\obj\Debug\Web.Dependency.csprojResolveAssemblyReference.cache
+C:\Users\ITIX\App_70486\Web.App\Web.Dependency\obj\Debug\Web.Dependency.dll
+C:\Users\ITIX\App_70486\Web.App\Web.Dependency\obj\Debug\Web.Dependency.pdb

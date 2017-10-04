@@ -1,0 +1,6 @@
+C:\Users\ITIX\App_70486\Web.App\Web.UnitTest\bin\Debug\Web.UnitTest.dll
+C:\Users\ITIX\App_70486\Web.App\Web.UnitTest\bin\Debug\Web.UnitTest.pdb
+C:\Users\ITIX\App_70486\Web.App\Web.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ITIX\App_70486\Web.App\Web.UnitTest\obj\Debug\Web.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\ITIX\App_70486\Web.App\Web.UnitTest\obj\Debug\Web.UnitTest.dll
+C:\Users\ITIX\App_70486\Web.App\Web.UnitTest\obj\Debug\Web.UnitTest.pdb

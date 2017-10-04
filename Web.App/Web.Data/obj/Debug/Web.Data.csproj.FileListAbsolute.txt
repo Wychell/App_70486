@@ -1,0 +1,10 @@
+C:\Users\ITIX\App_70486\Web.App\Web.Data\obj\Debug\Web.Data.csprojResolveAssemblyReference.cache
+C:\Users\ITIX\App_70486\Web.App\Web.Data\bin\Debug\Web.Data.dll.config
+C:\Users\ITIX\App_70486\Web.App\Web.Data\bin\Debug\Web.Data.dll
+C:\Users\ITIX\App_70486\Web.App\Web.Data\bin\Debug\Web.Data.pdb
+C:\Users\ITIX\App_70486\Web.App\Web.Data\bin\Debug\EntityFramework.dll
+C:\Users\ITIX\App_70486\Web.App\Web.Data\bin\Debug\Web.Business.dll
+C:\Users\ITIX\App_70486\Web.App\Web.Data\bin\Debug\Web.Business.pdb
+C:\Users\ITIX\App_70486\Web.App\Web.Data\bin\Debug\EntityFramework.xml
+C:\Users\ITIX\App_70486\Web.App\Web.Data\obj\Debug\Web.Data.dll
+C:\Users\ITIX\App_70486\Web.App\Web.Data\obj\Debug\Web.Data.pdb

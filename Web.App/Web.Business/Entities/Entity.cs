@@ -8,6 +8,14 @@ namespace Web.Business.Entities
 {
     public abstract class Entity
     {
+        public Entity()
+        {
+
+        }
+        public Entity(long id)
+        {
+            this.Id = id;
+        }
         public long Id { get; set; }
     }
 }

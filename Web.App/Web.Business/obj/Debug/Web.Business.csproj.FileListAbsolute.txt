@@ -1,0 +1,5 @@
+C:\Users\ITIX\App_70486\Web.App\Web.Business\bin\Debug\Web.Business.dll
+C:\Users\ITIX\App_70486\Web.App\Web.Business\bin\Debug\Web.Business.pdb
+C:\Users\ITIX\App_70486\Web.App\Web.Business\obj\Debug\Web.Business.csprojResolveAssemblyReference.cache
+C:\Users\ITIX\App_70486\Web.App\Web.Business\obj\Debug\Web.Business.dll
+C:\Users\ITIX\App_70486\Web.App\Web.Business\obj\Debug\Web.Business.pdb
